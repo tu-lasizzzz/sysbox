@@ -1,0 +1,26 @@
+{
+  "name": "system-info-backend",
+  "version": "1.0.0",
+  "description": "System Information & Code Workspace Manager — Backend API",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "node --watch src/index.js",
+    "json": "node src/index.js --json"
+  },
+  "keywords": [
+    "system-info",
+    "workspace-manager",
+    "express",
+    "node"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "get-port": "^7.2.0"
+  }
+}
