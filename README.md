@@ -1,4 +1,4 @@
-<img width="4966" height="6442" alt="sysbox" src="https://github.com/user-attachments/assets/dabffc9e-f600-4b8c-9a0e-7bc77060fd93" /># 🟧 SYSBOX
+# 🟧 SYSBOX
 
 ### Inspect • Manage • Build
 
@@ -7,7 +7,7 @@ SYSBOX is a full-stack JavaScript application built using **Node.js, Express, Re
 Developed for **Thunder Hackathon 3.0 – "Create a Virus in JS"**, SYSBOX is a safe developer utility. It only reads information from the machine it runs on and performs file operations explicitly requested by the user inside a sandboxed directory.
 ![Uploading sysbox.png…]()
 
-
+<img width="4964" height="4944" alt="sysbox" src="https://github.com/user-attachments/assets/dabffc9e-f600-4b8c-9a0e-7bc77060fd93" />
 ---
 
 ## ✨ Features
